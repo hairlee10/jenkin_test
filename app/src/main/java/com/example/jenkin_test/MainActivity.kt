@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         btnShow.setOnClickListener {
             Log.d("hailpt", "");
+            /// Alb alb
         }
     }
 }
