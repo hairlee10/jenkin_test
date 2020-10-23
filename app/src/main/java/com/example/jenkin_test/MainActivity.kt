@@ -13,6 +13,11 @@ class MainActivity : AppCompatActivity() {
         btnShow.setOnClickListener {
             Log.d("hailpt", "");
             /// Alb alb acfcß
+            /// Alb alb acfcß
+            /// Alb alb acfcß
+            /// Alb alb acfcß
+            /// Alb alb acfcß
+            /// Alb alb acfcß
         }
     }
 }
