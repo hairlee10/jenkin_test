@@ -9,7 +9,16 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="2ff6b499-d2ea-401a-865c-bbc5d37fbca5" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="2ff6b499-d2ea-401a-865c-bbc5d37fbca5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/jenkin_test/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/jenkin_test/MainActivity.kt" afterDir="false" />
+    </list>
+>>>>>>> login_feature
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +38,11 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jDoz4PDw5ErDg0mgv3F9hbiYqo" />
@@ -137,6 +151,7 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="284" y="199" key="#PSD/0.23.1440.821@0.23.1440.821" timestamp="1603348303324" />
+<<<<<<< HEAD
     <state width="1336" height="150" key="GridCell.Tab.0.bottom" timestamp="1603353689248">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
@@ -153,5 +168,43 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state width="1336" height="150" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1603353689248" />
+=======
+    <state width="1336" height="150" key="GridCell.Tab.0.bottom" timestamp="1603358511135">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1336" height="150" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1603358511135" />
+    <state width="1336" height="150" key="GridCell.Tab.0.center" timestamp="1603358511134">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1336" height="150" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1603358511134" />
+    <state width="1336" height="150" key="GridCell.Tab.0.left" timestamp="1603358511134">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1336" height="150" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1603358511134" />
+    <state width="1336" height="150" key="GridCell.Tab.0.right" timestamp="1603358511134">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1336" height="150" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1603358511134" />
+    <state x="155" y="98" key="MergeDialog" timestamp="1603358393672">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="155" y="98" key="MergeDialog/0.23.1440.821@0.23.1440.821" timestamp="1603358393672" />
+    <state x="444" y="160" key="MultipleFileMergeDialog" timestamp="1603358393698">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="444" y="160" key="MultipleFileMergeDialog/0.23.1440.821@0.23.1440.821" timestamp="1603358393698" />
+    <state x="544" y="166" key="RollbackChangesDialog" timestamp="1603358344117">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="544" y="166" key="RollbackChangesDialog/0.23.1440.821@0.23.1440.821" timestamp="1603358344117" />
+    <state x="419" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1603426501885">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="419" y="295" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1603426501885" />
+    <state x="477" y="157" key="git4idea.branch.GitSmartOperationDialog" timestamp="1603358367522">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="477" y="157" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.821@0.23.1440.821" timestamp="1603358367522" />
+>>>>>>> login_feature
   </component>
 </project>
